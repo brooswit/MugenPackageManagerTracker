@@ -1,0 +1,36 @@
+{
+    "authors": {
+        	"beterhans": {
+                "homeUrl": "https://beterwork.hopto.org/"
+            }
+    },
+    "chars": {
+        "ryu": {
+            "name": "Ryu Hoshi",
+            "company": "Capcom"
+            "franchise": "Street Fighter"
+            "authors": {
+                "beterhans": {
+                    "name": "Ryu POTS Edit",
+                    "origin": "SNK vs Capcom",
+                    "arrange": "SNK",
+                    "homeURL": "https://mugenarchive.com/forums/downloads.php?do=file&id=10793-ryu-beterhans",
+                    "downloadUrl": "https://mugenarchive.com/forums/downloads.php?do=file&id=10793-ryu-beterhans&act=down&actionhash=1618795218-f6c9d11aa0bf0d6a0beb9ffe0fdd6635342aa5d6"
+                    "youtubeUrl": "https://www.youtube.com/watch?v=T1T0Ms-g9vs"
+              }
+        }
+    },
+    "stages": {},
+    "music": {},
+    "base": {
+        "mugen": {
+            "name": "Unmodified Mugen",
+            "versions": {
+                "1.1b": {
+                    "homeUrl": "https://mugenarchive.com/forums/downloads.php?do=file&id=5283--official-mugen-1-1-beta-1-elecbyte"
+                    "downloadUrl": "https://mugenarchive.com/forums/downloads.php?do=file&id=5283--official-mugen-1-1-beta-1-elecbyte&act=down&actionhash=guest"
+                }
+            }
+        }
+    }
+}
